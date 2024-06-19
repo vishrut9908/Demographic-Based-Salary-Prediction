@@ -1,1 +1,0 @@
-# Demographic-Based-Salary-Prediction
